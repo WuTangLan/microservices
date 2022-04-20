@@ -1,0 +1,7 @@
+com\github\kkenan\basic\microservices\services\AppService.class
+com\github\kkenan\basic\microservices\services\dto\AppStatusResult.class
+com\github\kkenan\basic\microservices\controllers\Controller.class
+com\github\kkenan\basic\microservices\services\NodeService.class
+com\github\kkenan\basic\microservices\services\client\NodeClient.class
+com\github\kkenan\basic\microservices\services\dto\NodeResult.class
+com\github\kkenan\basic\microservices\Application.class
